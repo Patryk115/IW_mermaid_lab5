@@ -40,8 +40,7 @@ graph LR
 
     UC2 --- E
     UC3 --- E
-
-
-```
     UC4 --- E
     UC_Odrzuc --- E
+
+```
